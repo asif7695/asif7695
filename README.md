@@ -17,9 +17,8 @@ Skills: PYTHON / C / C++ / HTML / FLASK
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asif7695)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif7695)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif7695)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true))
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asif7695&show_icons=true&count_private=true)  
 
