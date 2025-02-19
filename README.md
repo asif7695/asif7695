@@ -1,6 +1,6 @@
 # Hi there 👋,
-## my name is Asif
-#### I am a computer science student 
+## My name is Asif
+#### Just a Computer Science student turning coffee into code.
 Welcome to my GitHub profile! I'm a passionate to beacome a software developer or a machine learning engineer or a data scientist with a love for open-source projects, machine learning, web development.
 
 Skills: PYTHON / C / C++ / HTML / FLASK
