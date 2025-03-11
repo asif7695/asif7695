@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/018decf8-7b67-44e1-9fc0-fae4280520cf" width="800" height="200"/>
+<img src="https://github.com/user-attachments/assets/a882eb9c-936b-492b-8294-87b7bf044e98" width="800" height="200"/>
 
 # Hi there 👋,
 ## It's Asif
