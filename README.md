@@ -1,9 +1,8 @@
 # Hi there 👋,
 ## It's Asif
 ### Just a Computer Science student turning coffee into code.
-Welcome to my GitHub profile! I'm a passionate to beacome a software developer
-or a machine learning engineer or a data scientist with a love for open-source ![anime](https://github.com/user-attachments/assets/800763a9-e37d-4690-adf8-316fa13e1f36)
-projects, machine learning, web development.
+Welcome to my GitHub profile! I'm a passionate to beacome a software developer or a machine learning engineer or a data scientist with a love for open-source projects, machine learning, web development.
+![asthetic-anime](https://github.com/user-attachments/assets/273d7521-7ac1-4f0b-86f0-616bfb3185e6)
 
 
 
