@@ -1,7 +1,9 @@
+![anime](https://github.com/user-attachments/assets/800763a9-e37d-4690-adf8-316fa13e1f36)
 # Hi there 👋,
 ## It's Asif
 ### Just a Computer Science student turning coffee into code.
 Welcome to my GitHub profile! I'm a passionate to beacome a software developer or a machine learning engineer or a data scientist with a love for open-source projects, machine learning, web development.
+
 
 
 - 🔭 I’m currently working on developing my skills .
