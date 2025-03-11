@@ -1,10 +1,9 @@
-<img src="https://github.com/user-attachments/assets/a882eb9c-936b-492b-8294-87b7bf044e98" width="800" height="200"/>
+<img src="https://github.com/user-attachments/assets/018decf8-7b67-44e1-9fc0-fae4280520cf" width="800" height="200"/>
 
 # Hi there 👋,
 ## It's Asif
 ### Just a Computer Science student turning coffee into code.
 Welcome to my GitHub profile! I'm a passionate to beacome a software developer or a machine learning engineer or a data scientist with a love for open-source projects, machine learning, web development.
-![velocyfer-banner](https://github.com/user-attachments/assets/a882eb9c-936b-492b-8294-87b7bf044e98)
 
 
 - 🔭 I’m currently working on developing my skills .
