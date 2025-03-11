@@ -4,6 +4,7 @@
 ## It's Asif
 ### Just a Computer Science student turning coffee into code.
 Welcome to my GitHub profile! I'm a passionate to beacome a software developer or a machine learning engineer or a data scientist with a love for open-source projects, machine learning, web development.
+![velocyfer-banner](https://github.com/user-attachments/assets/a882eb9c-936b-492b-8294-87b7bf044e98)
 
 
 - 🔭 I’m currently working on developing my skills .
