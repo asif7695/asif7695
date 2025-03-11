@@ -31,5 +31,5 @@ Here are some technologies and tools I love to work with:
 
 
 ### Thanks for stopping by! 😊
-## Btw don't forget to check out my repositories and give a feedback. Your opinion might help me to ascend more. 😉
+##### Btw don't forget to check out my repositories and give a feedback. Your opinion might help me to ascend more. 😉
 
