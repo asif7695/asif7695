@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate to beacome a software developer o
 - 🔭 I’m currently working on developing my skills .
 - 💻 Learning advanced Python and Machine Learning .
 - 👯 Looking to collaborate on any type of projects to gain knowledge .
-- 📫 Reach me through asifur8055@gmail.com .
+- 📫 Reach me through asifur.8055@gmail.com .
 - 👨 Pronouns: he/him .
 - ⚡ Fun fact: I love to play video games 🎮, watching animes ⛩️ , movies and series 🎥.
 
