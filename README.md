@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate to beacome a software developer o
 - 👯 Looking to collaborate on any type of projects to gain knowledge .
 - 📫 Reach me through asifur.8055@gmail.com .
 - 👨 Pronouns: he/him .
-- ⚡ Fun fact: I love to play video games 🎮, watching animes ⛩️ , movies and series 🎥.
+- ⚡ Fun fact: I love to play video games 🎮, watching animes ⛩️ , movies and  web series 🎥.
 
 ## 🛠️ Technologies & Tools
 
