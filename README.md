@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I'm a passionate to beacome a software developer or a machine learning engineer or a data scientist with a love for open-source projects, machine learning, web development.
 </br>
 
-- 🔭 I’m currently working on developing my skills .
+- 🔭 I’m currently working on developing my skills.
 - 💻 Learning advanced Python and Machine Learning .
 - 👯 Looking to collaborate on any type of projects to gain knowledge .
 - 📫 Reach me through asifur.8055@gmail.com .
